@@ -9,11 +9,13 @@
 
 ## 完整项目
 
-[Messenger](http://www.code4app.com/thread-11455-1-1.html) star：2100
+[Messenger](http://www.code4app.com/thread-11455-1-1.html) 【star：2100】
+
 这是一个native iOS Messenger应用程序，进行实时聊天对话和音频电话，离线支持。
 
 
-[react-native-nba-app](http://www.code4app.com/thread-11223-1-1.html) star：1100
+[react-native-nba-app](http://www.code4app.com/thread-11223-1-1.html) 【star：1100】
+
 react-native-nba-app。
 
 ## 网络请求
@@ -22,7 +24,8 @@ react-native-nba-app。
 
 ## 布局框架
 
-[MyLayout](http://www.code4app.com/thread-7501-1-1.html) star:1531
+[MyLayout](http://www.code4app.com/thread-7501-1-1.html) 【star:1531】
+
 一套功能强大的iOS界面布局库，他不是在AutoLayout的基础上进行的封装，而是一套基于对frame属性的设置，并通过重载layoutSubview函数来实现对子视图进行布局的布局框架
 
 
