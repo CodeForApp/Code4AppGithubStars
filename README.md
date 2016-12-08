@@ -32,6 +32,10 @@ react-native-nba-app。
 
 一套功能强大的iOS界面布局库，他不是在AutoLayout的基础上进行的封装，而是一套基于对frame属性的设置，并通过重载layoutSubview函数来实现对子视图进行布局的布局框架
 
+##音视频播放
+[KRVideoPlayer](http://www.code4app.com/thread-8630-1-1.html) 【star：1728】
+
+类似Weico的播放器，支持竖屏模式下全屏播放
 
 
 ## iOS weekly 往期内容
