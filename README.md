@@ -23,7 +23,7 @@ react-native-nba-app。
 ## 动画
 
 ## VR 全景播放
-[HTY360Player](https://github.com/hanton/HTY360Player) 【star：1381】
+[HTY360Player](http://www.code4app.com/thread-8205-1-1.html) 【star：1381】
 
 
 ## 布局框架
