@@ -18,7 +18,13 @@
 
 react-native-nba-app。
 
+[http://radiant-player.github.io/radiant-player-mac](http://www.code4app.com/forum.php?mod=viewthread&tid=11985&extra=page%3D1%26filter%3Dsortid%26sortid%3D1)  【star：2837】
+
+Google音乐播放器
+
+
 ## 网络请求
+react-native-nba-app。
 
 ## 动画
 
