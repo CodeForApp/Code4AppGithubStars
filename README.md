@@ -8,40 +8,44 @@
 
 
 ## 完整项目
-
+这是一个native iOS Messenger应用程序，进行实时聊天对话和音频电话，离线支持。
 [Messenger](http://www.code4app.com/thread-11455-1-1.html) 【star：2100】
 
-这是一个native iOS Messenger应用程序，进行实时聊天对话和音频电话，离线支持。
 
-
-[react-native-nba-app](http://www.code4app.com/thread-11223-1-1.html) 【star：1100】
 
 react-native-nba-app。
+[react-native-nba-app](http://www.code4app.com/thread-11223-1-1.html) 【star：1100】
 
-[radiant-player-mac](http://www.code4app.com/forum.php?mod=viewthread&tid=11985&extra=page%3D1%26filter%3Dsortid%26sortid%3D1)  【star：2837】
 
 Google音乐播放器
+[radiant-player-mac](http://www.code4app.com/forum.php?mod=viewthread&tid=11985&extra=page%3D1%26filter%3Dsortid%26sortid%3D1)  【star：2837】
+
+
 
 
 ## 网络请求
-react-native-nba-app。
 
 ## 动画
+使用UIViewControllerAnimatedTransitioning协议的iOS的自定义过渡转场动画的集合
+![【Swift】AnimatedTransitionGallery](http://www.code4app.com/forum.php?mod=viewthread&tid=12191&page=1&extra=#pid531833) 【star：1986】
+
+
 
 ## VR 全景播放
 [HTY360Player](http://www.code4app.com/thread-8205-1-1.html) 【star：1381】
 
 
 ## 布局框架
-
+一套功能强大的iOS界面布局库，他不是在AutoLayout的基础上进行的封装，而是一套基于对frame属性的设置，并通过重载layoutSubview函数来实现对子视图进行布局的布局框架
 [MyLayout](http://www.code4app.com/thread-7501-1-1.html) 【star:1531】
 
-一套功能强大的iOS界面布局库，他不是在AutoLayout的基础上进行的封装，而是一套基于对frame属性的设置，并通过重载layoutSubview函数来实现对子视图进行布局的布局框架
+
 
 ##音视频播放
+类似Weico的播放器，支持竖屏模式下全屏播放
 [KRVideoPlayer](http://www.code4app.com/thread-8630-1-1.html) 【star：1728】
 
-类似Weico的播放器，支持竖屏模式下全屏播放
+
 
 
 ## iOS weekly 往期内容
