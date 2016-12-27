@@ -27,7 +27,7 @@ Google音乐播放器
 
 ## 动画
 使用UIViewControllerAnimatedTransitioning协议的iOS的自定义过渡转场动画的集合
-![【Swift】AnimatedTransitionGallery](http://www.code4app.com/forum.php?mod=viewthread&tid=12191&page=1&extra=#pid531833) 【star：1986】
+[【Swift】AnimatedTransitionGallery](http://www.code4app.com/forum.php?mod=viewthread&tid=12191&page=1&extra=#pid531833) 【star：1986】
 
 
 
