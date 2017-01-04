@@ -41,6 +41,9 @@ Google音乐播放器
 一套功能强大的iOS界面布局库，他不是在AutoLayout的基础上进行的封装，而是一套基于对frame属性的设置，并通过重载layoutSubview函数来实现对子视图进行布局的布局框架
 [MyLayout](http://www.code4app.com/thread-7501-1-1.html) 【star:1531】
 
+Hero 是一个用于构建iOS视图控制器转换的库。 它在UIKit的繁琐的转换API之上提供了一个层。 使自定义过渡对于开发人员来说是一个容易的任务
+[Hero](http://www.code4app.com/forum.php?mod=viewthread&tid=12261&page=1&extra=#pid545706) [star:1743]
+
 
 
 ##音视频播放
